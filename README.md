@@ -35,7 +35,7 @@ This is a **first-person survival horror game** built in **Unreal Engine**, feat
 Special thanks to my amazing collaborators who made this project possible:  
 👾🔊 [Sumit-Dhakal](https://github.com/Sumit-Dhakal) – AI programming, pathfinding, game mechanics, Story, Sound design, level design & atmosphere
 📜🎨 [SantoshPoudel07](https://github.com/SantoshPoudel07) – Game mechanics, Environment, AI programming, level design & atmosphere
-👾📜 [Roshan Khadka] – Story, level design, pathfinding, documentation & game mechanics
+👾📜 [Roshan Khadka](https://github.com/Roshan4136) – Story, level design, pathfinding, documentation & game mechanics
 
 ## 📌 Future Improvements  
 🔹 More advanced AI behaviors (stealth detection, group tactics).  
